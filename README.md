@@ -1,5 +1,24 @@
 ### Hi there 👋
+I consider myself a creative person, curious about technology and proactive. Eager to learn. 
 
+I have training and skills in different programming and technological environments: 
+
+🎯 Programming: Html5 & CSS3, JavaScript, Node.js, React and Next.js
+
+🎯 Databases: MySQL and Firebase.
+
+🎯 Agile & Scrum methodologies.
+
+🎯 Photography.
+
+I have teamwork skills, I adapt very quickly to changes and I consider communication to be one of the most important factors in the development of a project.
+
+I'm currently developing several projects in Javascript backend with NodeJS and and frontend with Reactjs, Next.js and React Native. With this last framework I'm working on geolocation, navigation and redux some of them are hosted here.
+
+
+Projects in production with Next.js and Firebase
+
+🎯 solojuntos.com 
 <!--
 **Egolpe/Egolpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
