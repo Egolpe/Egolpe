@@ -18,7 +18,7 @@ I'm currently developing several projects in Javascript backend with NodeJS and 
 
 Projects in production with Next.js and Firebase
 
-🎯 solojuntos.com 
+🎯https://solojuntosnext.vercel.app/
 <!--
 **Egolpe/Egolpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
