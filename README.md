@@ -18,7 +18,10 @@ I'm currently developing several projects in Javascript backend with NodeJS and 
 
 Projects in production with Next.js and Firebase
 
-🎯https://solojuntosnext.vercel.app/
+🤗 https://solojuntosnext.vercel.app/
+🦄 https://egolpe.github.io/React-GifExpert-App/
+🏖 https://hotelgatsby-steel.vercel.app/
+🎩 https://breakingbad-quotes-react-api-fetch.vercel.app/
 <!--
 **Egolpe/Egolpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
