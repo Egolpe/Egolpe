@@ -16,7 +16,7 @@ I have teamwork skills, I adapt very quickly to changes and I consider communica
 I'm currently developing several projects in Javascript backend with NodeJS and and frontend with Reactjs, Next.js and React Native. With this last framework I'm working on geolocation, navigation and redux some of them are hosted here.
 
 
-Projects in production with Next.js and Firebase
+Projects in production
 
 🤗 https://solojuntosnext.vercel.app/
 
