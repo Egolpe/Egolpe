@@ -18,8 +18,6 @@ I'm currently developing several projects in Javascript backend with NodeJS and 
 
 Projects in production
 
-🤗 https://solojuntosnext.vercel.app/
-
 🦄 https://egolpe.github.io/React-GifExpert-App/
 
 🏖 https://hotelgatsby-steel.vercel.app/
